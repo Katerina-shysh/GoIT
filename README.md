@@ -22,10 +22,8 @@
 
 ![Футер](/Screenshots/scr14.jpeg "Футер")
 
-### Презентації
+### [Презентації](/Presentacions/)
 
-[Базові поняття] (/Presentacions/Базові поняття.Марафон QA GoIT.pdf)
+### [Шаблони](/Template/)
 
-### Шаблони
-
-### Домашнє завдання №1 (Test Rail)
+### Домашнє завдання №1: [Test Rail](/%D0%94%D0%971_TestCases/dz1.md)
