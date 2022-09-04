@@ -1,4 +1,8 @@
-### Практична робота з Jira
+### Практична робота з оформлення баг-репортів (Test Run, Jira)
+
+*Test Run*
+
+![Test Run](длядз2.png "Test Run")
 
 Приклади 3 Bug Report. 
 
